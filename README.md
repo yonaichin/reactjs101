@@ -1,11 +1,16 @@
 # React101
 
-[React JS Website](http://facebook.github.io/react/)
+build a simple site by using react js
+
+## Reference
+
+
+[React JS](http://facebook.github.io/react/)
 
 ## Install
 
 ```
-sudo npm install
+npm install
 
 bower install
 
