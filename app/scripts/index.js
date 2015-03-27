@@ -1,4 +1,3 @@
-console.log('develop branch');
 var Main = React.createClass({
   loadDataFromServer: function() {
     $.ajax({
