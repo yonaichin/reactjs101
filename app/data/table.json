@@ -1,0 +1,30 @@
+{
+  "name": "React Demo Table",
+  "datasets": [
+    {
+      "id": 1,
+      "name": "bob",
+      "type": "a"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "type": "b"
+    },
+    {
+      "id": 3,
+      "name": "Andy",
+      "type": "c"
+    },
+    {
+      "id": 4,
+      "name": "Jacky",
+      "type": "d"
+    },
+    {
+      "id": 5,
+      "name": "Mary",
+      "type": "e"
+    }
+  ]
+}

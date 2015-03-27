@@ -1,0 +1,21 @@
+{
+  "name": "reactjs101",
+  "version": "0.0.1",
+  "authors": [
+    "Naichin <yonaichin@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "react": "~0.12.0"
+  }
+}

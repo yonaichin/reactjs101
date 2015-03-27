@@ -1,0 +1,20 @@
+{
+  "name": "reactjs101",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yonaichin@bitbucket.org/yonaichin/reactjs101.git"
+  },
+  "author": "Naichin.W",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2"
+  },
+  "devDependencies": {}
+}
