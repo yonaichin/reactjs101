@@ -13,7 +13,7 @@ bower install
 ### Run
 
 ```
-node server.js
+npm start
 ```
 Up and running at [localhost:3000](http://localhost:3000)
 
